@@ -84,7 +84,7 @@ class ChartingState extends MusicBeatState
 	];
 
 	var _file:FileReference;
-  var key_space:FlxButton
+        var key_space:FlxButton;
 	var UI_box:FlxUITabMenu;
 
 	/**
